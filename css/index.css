@@ -1,0 +1,9 @@
+.cronometro {
+    font-family: Arial, sans-serif;
+    font-size: 10rem;
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
